@@ -45,30 +45,30 @@
     "license": "BSD-3-Clause",
     "dependencies": {
         "@types/react-addons-shallow-compare": "^0.14.22",
-        "react-addons-shallow-compare": "15.6.2"
+        "react-addons-shallow-compare": "15.6.3"
     },
     "peerDependencies": {
-        "react": ">=16.0.0",
-        "react-native": ">=0.58.0"
+        "react": ">=17.0.2",
+        "react-native": "0.64.2"
     },
     "devDependencies": {
-        "@react-native-community/bob": "0.16.2",
-        "@types/react": "^16.9.46",
-        "@types/react-native": "^0.63.4",
-        "@typescript-eslint/eslint-plugin": "3.8.0",
-        "@typescript-eslint/parser": "3.8.0",
+        "@react-native-community/bob": "0.17.1",
+        "@types/react": "^17.0.19",
+        "@types/react-native": "^0.64.13",
+        "@typescript-eslint/eslint-plugin": "4.29.2",
+        "@typescript-eslint/parser": "4.29.2",
         "babel-eslint": "10.1.0",
-        "eslint": "7.6.0",
-        "eslint-config-standard": "14.1.1",
-        "eslint-config-standard-react": "9.2.0",
-        "eslint-plugin-import": "2.22.0",
+        "eslint": "7.32.0",
+        "eslint-config-standard": "16.0.3",
+        "eslint-config-standard-react": "11.0.1",
+        "eslint-plugin-import": "2.24.1",
         "eslint-plugin-node": "11.1.0",
-        "eslint-plugin-promise": "4.2.1",
-        "eslint-plugin-react": "7.20.5",
-        "eslint-plugin-standard": "4.0.1",
-        "react": "16.13.1",
-        "react-native": "0.63.2",
-        "typescript": "3.9.7"
+        "eslint-plugin-promise": "5.1.0",
+        "eslint-plugin-react": "7.24.0",
+        "eslint-plugin-standard": "5.0.0",
+        "react": "17.0.2",
+        "react-native": "0.65.1",
+        "typescript": "4.3.5"
     },
     "eslintIgnore": [
         "node_modules/",
