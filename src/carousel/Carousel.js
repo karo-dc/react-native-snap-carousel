@@ -1344,6 +1344,8 @@ export default class Carousel extends Component {
     render () {
         const { data, renderItem, useScrollView } = this.props;
 
+        console.log('ADASDASDADS');
+
         if (!data || !renderItem) {
             return null;
         }
